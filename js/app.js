@@ -6100,6 +6100,7 @@
                 autoHeight: true,
                 speed: 800,
                 simulateTouch: false,
+                lazy: true,
                 pagination: {
                     el: ".hero-page__dotts",
                     clickable: true
